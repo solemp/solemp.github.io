@@ -18,4 +18,10 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>the first one</title>
+    <url>/2020/10/29/the-first-one/</url>
+    <content><![CDATA[<h2 id="记载第一次写markdown"><a href="#记载第一次写markdown" class="headerlink" title="记载第一次写markdown"></a>记载第一次写markdown</h2><p>这是一个实验，第一次使用markdown</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">[root@model hqu]# cat &#x2F;etc&#x2F;re</span><br><span class="line">redhat-release  resolv.conf</span><br><span class="line">[root@model hqu]# cat &#x2F;etc&#x2F;re</span><br><span class="line">redhat-release  resolv.conf</span><br><span class="line">[root@model hqu]# cat &#x2F;etc&#x2F;redhat-release</span><br><span class="line">CentOS Linux release 8.2.2004 (Core)</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
 </search>
